@@ -4,4 +4,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauavalladares&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauavalladares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Snake animation](https://github.com/kauavalladares/kauavalladares/blob/output/github-contribution-grid-snake.svg)
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
+
