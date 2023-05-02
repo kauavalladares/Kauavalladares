@@ -28,4 +28,4 @@
 
 ##
 
-![snake gif](https://github.com/kauavalladares//blob/output/github-contribution-grid-snake.svg)
+
