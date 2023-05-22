@@ -36,7 +36,7 @@
   
 ##
 
-<details><br>
+<details><br><br>
 <p align="center">
   <a href="https://github.com/kauavalladares">
     <img height="198px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauavalladares&theme=dracula" />
