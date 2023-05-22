@@ -15,11 +15,13 @@
   
   
 </div>
+
+  
   
 <details>
 <p align="center">
   <a href="https://github.com/kauavalladares>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username==kauavalladarestransparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username==kauavalladares=transparent" />
   </a>
   <a href="https://github.com/kauavalladares">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauavalladares_border=true&card_width=338&theme=transparent" />
