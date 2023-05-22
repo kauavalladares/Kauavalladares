@@ -29,7 +29,7 @@
 
 <details>
 <p align="center">
-  <a href="https://github.com/kauavalladares>
+  <a href="https://github.com/kauavalladares">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauavalladares&theme=transparent" />
   </a>
   <a href="https://github.com/kauavalladares">
