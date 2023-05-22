@@ -19,23 +19,23 @@
 <details>
 <p align="center">
   <a href="https://github.com/kauavalladares>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wervlad&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username==kauavalladarestransparent" />
   </a>
   <a href="https://github.com/kauavalladares">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wervlad&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kauavalladares_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/kauavalladares">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wervlad&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauavalladares=transparent" />
   </a>
   <a href="https://github.com/kauavalladares">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wervlad&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauavalladares_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
 
 <p align="center">
   <a href="https://github.com/kauavalladares">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=kauavalladares=red&style=flat)" />
   </a>
 </p>
   
