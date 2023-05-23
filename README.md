@@ -2,7 +2,7 @@
  ## Hello I am Kauã Valladares 
 <br>
 
-<div>
+<div align="center" >
   
 <a href="https://github.com/Kauavalladares">
 <img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauavalladares&layout=compact&langs_count=7&theme=dracula"/>
