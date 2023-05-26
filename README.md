@@ -1,11 +1,6 @@
 
  ## Hello I am Kauã Valladares 
 <br>
-
-
-##
- 
-
   
 <div  style="display: inline_block"><br>
   
