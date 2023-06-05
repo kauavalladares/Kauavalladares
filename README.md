@@ -35,10 +35,6 @@
   <a href="https://github.com/kauavalladares">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauavalladares&theme=dracula" />
   </a>
-  <a href="https://github.com/kauavalladares">
-    <img height="164px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauavalladares&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=dracula" />
-  </a>
-</p>
 </details><br>
 
 <p align="center">
