@@ -26,7 +26,7 @@
 ##
 
 <details><br><br>
-<p align="center">
+<p align="left">
   <a href="https://github.com/kauavalladares">
     <img height="198px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauavalladares&theme=dracula" />
   </a>
@@ -38,11 +38,7 @@
   </a>
 </details><br>
 
-<p align="center">
-  <a href="https://github.com/kauavalladares">
-    <img src="https://komarev.com/ghpvc/?username=kauavalladares&color=&color=red&style)" />
-  </a>
-</p>
+
   
  ##
   
