@@ -34,15 +34,10 @@ I'm a passionate developer focused on building scalable and efficient solutions.
   </p>
 </details>
 
-## My Commit Snake 🐍
-
-![snake gif](https://github.com/kauavalladares/kauavalladares/blob/output/github-contribution-grid-snake.svg)
-
 ## About Me 🤖
 
 - 🔭 Currently learning JavaScript, TypeScript, Node.js, and React
 - 🌱 I’m always looking to improve my skills and learn new technologies
 - 💬 Feel free to reach out for collaboration or just to chat about tech!
 - ⚡ Fun fact: I enjoy solving problems and building efficient solutions
-
 
