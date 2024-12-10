@@ -20,18 +20,23 @@ I'm a passionate developer focused on building scalable and efficient solutions.
 ## GitHub Stats 📊
 
 <details>
-  <summary>Click to see more statistics and streaks</summary><br>
-  <p align="left">
+  <summary style="text-align: center; font-size: 18px; margin-bottom: 30px;">📊 Click to see my GitHub Stats and Streaks</summary>
+  <BR><BR>
+  <div align="center" style="margin-top: 20px;">
+    <!-- Gráfico Principal -->
     <a href="https://github.com/kauavalladares">
-      <img height="198px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauavalladares&theme=dracula" alt="Profile Details" />
+      <img height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kauavalladares&theme=dracula" alt="Profile Details" />
     </a>
-    <a href="https://github.com/kauavalladares">
-      <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=kauavalladares&hide_border=true&card_width=338&theme=dracula" alt="GitHub Streak" />
-    </a>
-    <a href="https://github.com/kauavalladares">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauavalladares&theme=dracula" alt="GitHub Stats" />
-    </a>
-  </p>
+    <!-- Gráficos de Status na Mesma Linha (sem espaçamento extra entre os gráficos) -->
+    <div style="display: inline-flex; justify-content: center;">
+      <a href="https://github.com/kauavalladares">
+        <img height="153px" src="https://github-readme-stats.vercel.app/api?username=kauavalladares&show_icons=true&theme=dracula" alt="GitHub Stats" />
+      </a>
+      <a href="https://github.com/kauavalladares">
+        <img height="153px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kauavalladares&theme=dracula" alt="General Stats" />
+      </a>
+    </div>
+  </div>
 </details>
 
 ## About Me 🤖
